@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 # Credenciais do email
 my_email = 'email_usario'
-my_password = 'chave_de_acesso'
+my_password = 'senha_app_gmail'
 recipient_emails = ["email_destinatario1", "email_destinatario2", "email_destinatario3", "email_destinatario4", "email_destinatario5"]
 
 # Configurações do servidor SMTP
